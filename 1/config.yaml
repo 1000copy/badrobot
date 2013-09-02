@@ -1,0 +1,3 @@
+handle:
+- directoryindex: index.php
+- errordoc:  404 /index.php
